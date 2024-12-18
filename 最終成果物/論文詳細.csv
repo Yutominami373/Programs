@@ -1,0 +1,108 @@
+title,summary,link,authors,published_day,category,site,PMID,similarity,parent_title,similarity_query,query_similarity,similarity_1,similarity_2,similarity_3,similarity_4,similarity_5,title_similarity_1,title_similarity_2,title_similarity_3,title_similarity_4,title_similarity_5,year_normalized
+Tests of Machine Intelligence,"Although the definition and measurement of intelligence is clearly of
+fundamental importance to the field of artificial intelligence, no general
+survey of definitions and tests of machine intelligence exists. Indeed few
+researchers are even aware of alternatives to the Turing test and its many
+derivatives. In this paper we fill this gap by providing a short survey of the
+many tests of machine intelligence that have been proposed.",http://arxiv.org/pdf/0712.3825v1,"Shane Legg, Marcus Hutter",2007,cs,arxiv,,0.7028402,The case for psychometric artificial general intelligence,0.5282888,0.7170227,0.6533817052841187,0.5039939880371094,0.4537563920021057,0.4537563920021057,0.44378888607025146,"Does an artificial intelligence perform market manipulation with its own
+  discretion? -- A genetic algorithm learns in an artificial market simulation",The Governance of Physical Artificial Intelligence,"Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997)","Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997)",Tests of Machine Intelligence,0.0
+"Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997)","This is the Proceedings of the Thirteenth Conference on Uncertainty in
+Artificial Intelligence, which was held in Providence, RI, August 1-3, 1997",http://arxiv.org/pdf/1304.3846v1,"Dan Geiger, Prakash Shenoy",2013,cs,arxiv,,0.48768488,,0.48768488,0.5215483,1.0000001192092896,0.921705961227417,0.921705961227417,0.8872004747390747,0.4697742462158203,"Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997)","Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986)","Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986)","Proceedings of the Ninth Conference on Uncertainty in Artificial
+  Intelligence (1993)",Tests of Machine Intelligence,0.35294117647058826
+"Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986)","This is the Proceedings of the Second Conference on Uncertainty in Artificial
+Intelligence, which was held in Philadelphia, PA, August 8-10, 1986",http://arxiv.org/pdf/1304.3859v1,"Laveen Kanal, John Lemmer",2013,cs,arxiv,,0.92170596,"Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997)",0.48153546,0.49194387,0.5050216913223267,0.45349472761154175,0.4179130792617798,0.390455961227417,0.3764542043209076,The Governance of Physical Artificial Intelligence,"Putting AI Ethics into Practice: The Hourglass Model of Organizational
+  AI Governance",How to Design AI for Social Good: Seven Essential Factors.,Tests of Machine Intelligence,The case for psychometric artificial general intelligence,0.35294117647058826
+"Proceedings of the Ninth Conference on Uncertainty in Artificial
+  Intelligence (1993)","This is the Proceedings of the Ninth Conference on Uncertainty in Artificial
+Intelligence, which was held in Washington, DC, July 9-11, 1993",http://arxiv.org/pdf/1304.3851v1,"David Heckerman, E. Mamdani",2013,cs,arxiv,,0.88720053,"Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997)",0.46275374,0.4015253,0.9999999403953552,0.7028401494026184,0.42535489797592163,0.42291224002838135,0.42291224002838135,The case for psychometric artificial general intelligence,Tests of Machine Intelligence,The Governance of Physical Artificial Intelligence,"Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997)","Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997)",0.35294117647058826
+"Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997)","This is the Proceedings of the Thirteenth Conference on Uncertainty in
+Artificial Intelligence, which was held in Providence, RI, August 1-3, 1997",http://arxiv.org/pdf/1304.3846v1,"Dan Geiger, Prakash Shenoy",2013,cs,arxiv,,0.8872004,"Proceedings of the Ninth Conference on Uncertainty in Artificial
+  Intelligence (1993)",0.48768488,0.5215483,0.7366337776184082,0.6085633039474487,0.5216246843338013,0.45349472761154175,0.39160656929016113,How to Design AI for Social Good: Seven Essential Factors.,The Governance of Physical Artificial Intelligence,AI for social good and the corporate capture of global development.,"Does an artificial intelligence perform market manipulation with its own
+  discretion? -- A genetic algorithm learns in an artificial market simulation",Tests of Machine Intelligence,0.35294117647058826
+"Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986)","This is the Proceedings of the Second Conference on Uncertainty in Artificial
+Intelligence, which was held in Philadelphia, PA, August 8-10, 1986",http://arxiv.org/pdf/1304.3859v1,"Laveen Kanal, John Lemmer",2013,cs,arxiv,,0.83546245,"Proceedings of the Ninth Conference on Uncertainty in Artificial
+  Intelligence (1993)",0.48153552,0.49194416,0.6085633039474487,0.5050216913223267,0.47178834676742554,0.4641592502593994,0.4518616199493408,"Putting AI Ethics into Practice: The Hourglass Model of Organizational
+  AI Governance","Does an artificial intelligence perform market manipulation with its own
+  discretion? -- A genetic algorithm learns in an artificial market simulation",Tests of Machine Intelligence,How to Design AI for Social Good: Seven Essential Factors.,"Proceedings of the Ninth Conference on Uncertainty in Artificial
+  Intelligence (1993)",0.35294117647058826
+Impact of Artificial Intelligence on Economic Theory,"Artificial intelligence has impacted many aspects of human life. This paper
+studies the impact of artificial intelligence on economic theory. In particular
+we study the impact of artificial intelligence on the theory of bounded
+rationality, efficient market hypothesis and prospect theory.",http://arxiv.org/pdf/1509.01213v1,Tshilidzi Marwala,2015,q-fin,arxiv,,0.58706874,,0.58706874,1.0,1.0,0.921705961227417,0.835462212562561,0.45612335205078125,0.41133683919906616,"Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986)","Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997)","Proceedings of the Ninth Conference on Uncertainty in Artificial
+  Intelligence (1993)",Tests of Machine Intelligence,The case for psychometric artificial general intelligence,0.47058823529411764
+"Does an artificial intelligence perform market manipulation with its own
+  discretion? -- A genetic algorithm learns in an artificial market simulation","Who should be charged with responsibility for an artificial intelligence
+performing market manipulation have been discussed. In this study, I
+constructed an artificial intelligence using a genetic algorithm that learns in
+an artificial market simulation, and investigated whether the artificial
+intelligence discovers market manipulation through learning with an artificial
+market simulation despite a builder of artificial intelligence has no intention
+of market manipulation. As a result, the artificial intelligence discovered
+market manipulation as an optimal investment strategy. This result suggests
+necessity of regulation, such as obligating builders of artificial intelligence
+to prevent artificial intelligence from performing market manipulation.",http://arxiv.org/pdf/2005.10488v1,Takanobu Mizuta,2020,q-fin,arxiv,,0.5657947,,0.5657947,0.897583,0.921705961227417,0.8872004747390747,0.4697742462158203,0.42291224002838135,0.350675106048584,"Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986)","Proceedings of the Ninth Conference on Uncertainty in Artificial
+  Intelligence (1993)",Tests of Machine Intelligence,The case for psychometric artificial general intelligence,How to Design AI for Social Good: Seven Essential Factors.,0.7647058823529411
+The case for psychometric artificial general intelligence,"A short review of the literature on measurement and detection of artificial
+general intelligence is made. Proposed benchmarks and tests for artificial
+general intelligence are critically evaluated against multiple criteria. Based
+on the findings, the most promising approaches are identified and some useful
+directions for future work are proposed.",http://arxiv.org/pdf/2101.02179v1,Mark McPherson,2020,cs,arxiv,,0.4639767,,0.4639767,0.4074129,0.8872004747390747,0.835462212562561,0.4469495117664337,0.39703017473220825,0.34843188524246216,"Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997)","Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986)",Tests of Machine Intelligence,The case for psychometric artificial general intelligence,How to Design AI for Social Good: Seven Essential Factors.,0.7647058823529411
+How to Design AI for Social Good: Seven Essential Factors.,"The idea of artificial intelligence for social good (henceforth AI4SG) is gaining traction within information societies in general and the AI community in particular. It has the potential to tackle social problems through the development of AI-based solutions. Yet, to date, there is only limited understanding of what makes AI socially good in theory, what counts as AI4SG in practice, and how to reproduce its initial successes in terms of policies. This article addresses this gap by identifying seven ethical factors that are essential for future AI4SG initiatives. The analysis is supported by 27 case examples of AI4SG projects. Some of these factors are almost entirely novel to AI, while the significance of other factors is heightened by the use of AI. From each of these factors, corresponding best practices are formulated which, subject to context and balance, may serve as preliminary guidelines to ensure that well-designed AI is more likely to serve the social good.",,Floridi Luciano; Cowls Josh; King Thomas C; Taddeo Mariarosaria,2020,Biosciences,pubmed,32246245,0.71425116,AI for social good and the corporate capture of global development.,0.39594376,0.07989005,0.7142512202262878,0.3913246989250183,0.3831588625907898,0.350675106048584,0.34843188524246216,AI for social good and the corporate capture of global development.,Tests of Machine Intelligence,The case for psychometric artificial general intelligence,"Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997)","Proceedings of the Ninth Conference on Uncertainty in Artificial
+  Intelligence (1993)",0.7647058823529411
+The case for psychometric artificial general intelligence,"A short review of the literature on measurement and detection of artificial
+general intelligence is made. Proposed benchmarks and tests for artificial
+general intelligence are critically evaluated against multiple criteria. Based
+on the findings, the most promising approaches are identified and some useful
+directions for future work are proposed.",http://arxiv.org/pdf/2101.02179v1,Mark McPherson,2020,cs,arxiv,,0.70284015,Tests of Machine Intelligence,0.4639767,0.4074129,0.7028401494026184,0.42291224002838135,0.41133683919906616,0.39703017473220825,0.3831588625907898,Tests of Machine Intelligence,"Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997)","Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986)","Proceedings of the Ninth Conference on Uncertainty in Artificial
+  Intelligence (1993)",How to Design AI for Social Good: Seven Essential Factors.,0.7647058823529411
+"Putting AI Ethics into Practice: The Hourglass Model of Organizational
+  AI Governance","The organizational use of artificial intelligence (AI) has rapidly spread
+across various sectors. Alongside the awareness of the benefits brought by AI,
+there is a growing consensus on the necessity of tackling the risks and
+potential harms, such as bias and discrimination, brought about by advanced AI
+technologies. A multitude of AI ethics principles have been proposed to tackle
+these risks, but the outlines of organizational processes and practices for
+ensuring socially responsible AI development are in a nascent state. To address
+the paucity of comprehensive governance models, we present an AI governance
+framework, the hourglass model of organizational AI governance, which targets
+organizations that develop and use AI systems. The framework is designed to
+help organizations deploying AI systems translate ethical AI principles into
+practice and align their AI systems and processes with the forthcoming European
+AI Act. The hourglass framework includes governance requirements at the
+environmental, organizational, and AI system levels. At the AI system level, we
+connect governance requirements to AI system life cycles to ensure governance
+throughout the system's life span. The governance model highlights the systemic
+nature of AI governance and opens new research avenues into its practical
+implementation, the mechanisms that connect different AI governance layers, and
+the dynamics between the AI governance actors. The model also offers a starting
+point for organizational decision-makers to consider the governance components
+needed to ensure social acceptability, mitigate risks, and realize the
+potential of AI.",http://arxiv.org/pdf/2206.00335v2,"Matti Mäntymäki, Matti Minkkinen, Teemu Birkstedt, Mika Viljanen",2022,cs,arxiv,,0.7366338,How to Design AI for Social Good: Seven Essential Factors.,0.37934902,0.0,0.3342132866382599,0.3000088930130005,,,,Tests of Machine Intelligence,"Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986)",,,,0.8823529411764706
+The Governance of Physical Artificial Intelligence,"Physical artificial intelligence can prove to be one of the most important
+challenges of the artificial intelligence. The governance of physical
+artificial intelligence would define its responsible intelligent application in
+the society.",http://arxiv.org/pdf/2304.02924v1,"Yingbo Li, Anamaria-Beatrice Spulber, Yucong Duan",2023,cs,arxiv,,0.54162276,,0.54162276,0.7812149,0.45612335205078125,,,,,"Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986)",,,,,0.9411764705882353
+AI for social good and the corporate capture of global development.,"This article focuses on the AI for Social Good (AI4SG) movement, which aims to leverage Artificial Intelligence (AI) and Machine Learning (ML) to achieve the United Nations Sustainable Development Goals (UN SDGs). It argues that, through AI4SG, Big Tech is attempting to advance AI-driven technosolutionism within the development policy and scholarly space creating new opportunities for rent extraction. The article situates AI4SG, within the history of ICT4D. It also highlights the contiguity of AI4SG with the so-called 4th Industrial Revolution (4IR), a framework that places AI and other digital innovations at the center of national and international development and industrial policy agendas. By exploring how Big Tech has attempted to depoliticize datafication, we thus suggest that AI4SG and 4IR are mutually reinforcing discourses that serve the purpose of depoliticizing the development arena by bestowing legitimacy and authority to Big Tech to reshape policy spaces and epistemic infrastructures while inserting themselves, to an unprecedented degree, between the citizen (data) and the state (development and policy).",,Iazzolino Gianluca; Stremlau Nicole,2024,Biosciences,pubmed,39508029,0.3871652,,0.3871652,0.037628423,,,,,,,,,,,1.0

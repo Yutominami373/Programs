@@ -1,0 +1,128 @@
+:root{
+    --clr-dark: #070a13;
+    --clr-light: #f1f5f9;
+    --clr-slate400: #94a3b8;
+    --clr-slate600: #475569;
+    --clr-slate800: #1e293b;
+    --clr-rose: #e11d48;
+    --clr-indigo: #4f46e5;
+
+
+
+    --size-xxs: 0.5rem;
+    --size-xs: 0.75rem;
+    --size-sm: 0.875rem;
+    --size-base: 1rem;
+    --size-lg: 1.125rem;
+    --size-xl: 1.25rem;
+    --size-2xl: 1.5rem;
+    --size-3xl: 1.875rem;
+    --size-4xl: 2.25rem;
+    --size-5xl: 3rem;
+    --size-6xl: 3.75rem;
+    --size-7xl: 4.5rem;
+    --size-8xl: 6rem;
+    --size-9xl: 8rem;
+    --size-10xl: 10rem;
+}
+
+*{
+    margin: 0;
+    line-height: calc(1em + 0.5 rem) ;
+
+}
+html {
+    scroll-behavior: smooth;
+    background-color: var(--clr-dark);
+    color: var(--clr-light);
+}
+
+
+li,a, button{
+    text-decoration: none;
+}
+
+a:visited{
+    color : var(--clr-light);
+}
+
+header {
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding : 30px 10%;
+    background-color: var(--clr-dark);
+}
+
+.nav__link{
+    list-style: none;
+}
+
+.nav__link li {
+    display : inline-block;
+    padding : 0px 20px ;
+
+}
+
+
+.nav__link li a { 
+    transition: all 0.3s ease 0s ;
+    color: var(--clr-light);
+}
+
+.nav__link li a:hover { 
+    color: var(--clr-rose);
+}
+.logo {
+    margin-right: auto;
+    color: var(--clr-light);
+} 
+
+
+.chat_log{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 0.9rem;
+}
+
+.chat_box{
+    bottom: 0;
+    padding : 30px 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding : 30px 10%;
+}
+.chat__conatiner{ 
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: var(--clr-dark);
+    padding :10px,0;
+    margin-left:auto;
+    margin-right: auto;
+}  
+
+
+input[type="text"] {
+
+    background-color: var(--clr-slate800);
+    color: var(--clr-light) ;
+    border: none;
+    width: 60%;
+    font-size: var(--size-base);
+    line-height: 3em;
+}
+input[type="submit"] {
+    line-height: 3.6em;
+    background-color: var(--clr-slate800);
+    color: var(--clr-light) ;
+    border: none;
+
+}
+.chat_log_table{
+    padding-bottom: 11rem;
+}

@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block head %}
+<title>Chat bot </title>
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h1>chat bot </h1>
+    <table>
+        <tr>
+            <th>chat log</th>
+        </tr>
+        {% for log in logs %}
+            <tr>
+                <td>{{ log.content }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+    <div class="form">
+        <form action="/chat" method="POST">
+            <input id= "content1" type="text" name="content" id="content">
+            <input id= "content2" type="submit" value="Send">
+        </form>
+    </div>
+</div>
+{% endblock %}
